@@ -1,0 +1,7 @@
+let mapleader = " "
+nmap <leader>qj :action GotoNextError<CR>
+nmap <leader>qk :action GotoPreviousError<CR>
+nmap <leader>ee oif err != nil {<CR>}<Esc>Oreturn err<Esc>
+nmap <C-o> <C-^>
+nmap <leader>pv :action ActivateProjectToolWindow<CR>
+nmap <leader>pf :action GotoFile<CR>
