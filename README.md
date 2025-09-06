@@ -1,1 +1,1 @@
-# Intellij IDEA vim configuration
+# Intellij .ideavimrc configuration
